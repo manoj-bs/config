@@ -1,6 +1,6 @@
 {
     "_comment" : "'custom_table' will have the list of coin names that you want to track individually",
-    "custom_table": ["BTCUSDT","WINUSDT","XECUSDT","MATICUSDT","SHIBUSDT", "LINAUSDT", "REQUSDT"],
+    "custom_table": ["BTCUSDT","WINUSDT","XECUSDT","MATICUSDT", "LINAUSDT", "REQUSDT"],
     "main_table_time_list" : [1,5,10,30,60,80,100],
     "main_table_size": 36,
     "sort_based_on": 300,
