@@ -6,5 +6,5 @@
     "reverse": true,
     "print_custom_table": false,
     "skip_first": 0,
-    "token_price_list": ["USDT", "BUSD", "BNB"]
+    "token_price_list": ["USDT", "BUSD", "BNB", "BTC"]
 }
